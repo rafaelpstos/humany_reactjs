@@ -12,14 +12,25 @@ class App extends Component {
           </div>
         </div> */}
         <div className="App-intro">
-          <h1>Rafael Pereira dos Santos</h1>
-          <ul>
-            <li>Sênior developer - <a target="_blank" href="http://pixeon.com.br">Pixeon</a> - São Paulo / SP</li> 
-            <li><a target="_blank" href="https://twitter.com/rafaelpstos">Twitter</a></li>
-            <li><a target="_blank" href="https://www.instagram.com/rafael82/">Instagram</a></li>
-            <li><a target="_blank" href="https://github.com/rafaelpstos">Github</a></li>
-            <li><a target="_blank" href="https://www.linkedin.com/in/rafaelpstos/">Linkedin</a></li>
-          </ul>         
+          <section>
+            <h1>Rafael Pereira dos Santos</h1>
+            <ul>
+              <li>Sênior developer - <a target="_blank" href="http://pixeon.com.br">Pixeon</a> - São Paulo / SP</li> 
+              <li><a target="_blank" href="https://twitter.com/rafaelpstos">Twitter</a></li>
+              <li><a target="_blank" href="https://www.instagram.com/rafael82/">Instagram</a></li>
+              <li><a target="_blank" href="https://github.com/rafaelpstos">Github</a></li>
+              <li><a target="_blank" href="https://www.linkedin.com/in/rafaelpstos/">Linkedin</a></li>
+            </ul>  
+          </section>  
+          <section>
+              <h2>Skills:</h2>
+              <ul>
+                <li>VueJS / ReactJS / AngularJS</li>
+                <li>NodeJS</li>
+                <li>.NET MVC</li> 
+                <li>MongoDB / Mysql / SQL server</li>
+              </ul>
+          </section>  
         </div>
       </div>
     );

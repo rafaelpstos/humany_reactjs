@@ -47,6 +47,18 @@ a{
   font-size: 320%
 }
 
+section{
+  padding: 1em;
+}
+
+section:first-child{
+  border-bottom: 0.2em dashed #e68a00
+}
+
+.App-intro  h2{
+  font-weight: 400;
+}
+
 .App-intro ul li{
   font-size: 150%;
   margin-top: 0.6em;
